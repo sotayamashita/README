@@ -1,0 +1,3 @@
+> 至誠にして動かざる者は未だ之れあらざるなり。誠ならずして未だ能（よ）く動かす者はあらざるなり
+
+I am Sota (Sam) Yamashita. I am a software engineer who writing JavaScript and Rust. My source code is hosted on <a href="https://github.com/sotayamashita" class="contact contact-github" target="_blank">GitHub</a> and <a href="https://gitlab.com/samyamashita" class="contact contact-gitlab" target="_blank">GitLab</a>. I tweet with an <a href="https://twitter.com/sota0805" class="contact contact-twitter" target="_blank">@sota0805</a>. You can see my experience on <a href="https://www.linkedin.com/in/sotayamashita/" class="contact contact-linkedin" target="_blank">LinkedIn</a>
