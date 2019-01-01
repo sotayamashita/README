@@ -5,5 +5,8 @@ workflow "New workflow" {
 
 action "Hello World" {
   uses = "./action-glitch"
-  secrets = ["GITHUB_TOKEN", "GLITCH_PROJECT_ID"]
+  secrets = [
+    "GLITCH_PROJECT_ID",
+    "GLITCH_TOKEN",
+  ]
 }
